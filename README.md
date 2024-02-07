@@ -2,7 +2,7 @@
 
 Wrote a Language Model from scratch for my own Whatsapp Chats!
 
-The references are taken from this legendary Attention Paper: [link](https://arxiv.org/pdf/1706.03762.pdf)
+The references are taken from this legendary Attention Paper: [Link](https://arxiv.org/pdf/1706.03762.pdf)
 
 This uses just the decoder part of the transformer as the focus was on Language Modelling, generating the future text based on the previous inputs. It also uses words with look ahead masks for faster processing of a single sentence.
 
